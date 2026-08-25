@@ -26,6 +26,3 @@ Trabalho prático desenvolvido em C# para a disciplina, contendo 12 exercícios 
 
 ```bash
 dotnet run
-
-Autor
-Renan Treviso Sobrinho
